@@ -1,4 +1,4 @@
-# tkinter
+# TIC TAC TOE GAME WITH python tkinter
 import tkinter
 from tkinter import *
 from tkinter import  messagebox as msg
